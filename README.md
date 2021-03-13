@@ -7,6 +7,7 @@ the required length, or you can use the standard generation parameters.
 
 --l or --length // an explicit indication of the length of the password. 
 Default 12 characters
+
 --spec-disable // Disables the use of special characters when generating
 
 # Example
